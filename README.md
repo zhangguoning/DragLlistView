@@ -5,8 +5,6 @@
 <br/>
 ![](https://github.com/zhangguoning/DragLlistView/raw/master/wwwwww.gif)
 <br/>
-一个封装好的图片选择器模块，可以使用多选模式和单选模式两种，单选模式调用系统的图片选择功能，
-多选模式则调用自己定义的选择功能，再次选择时可以选择是否记录前面已选择过的图片。
 ```java
   // OnDragListViewDragingListener
  @Override
